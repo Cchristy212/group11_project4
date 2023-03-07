@@ -22,7 +22,7 @@ To navigate the this project, (not sure if you guys wanna use html or powerpoint
 Jupyter Notebook, HTML, Javascript, SQL.
 
 ## Navigation
-Depending on what tool we use to present the project, we will walk through the navigation portion later.
+From the Homepage, 
 
 ##
 
