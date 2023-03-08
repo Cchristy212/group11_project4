@@ -1,11 +1,11 @@
-# group11_project4# Bracket TRUSTERS
+#  Bracket TRUSTERS
 **_Brought to you by [Ryan Marshall](https://github.com/ryanmarshall80), [Christy Caroline](https://github.com/Cchristy212), [Dylan Jackson](https://github.com/Dj09123), [Nasra Ahmed](https://github.com/ahmedna2) and [Anger Gardy](https://github.com/gardy738)._**
 
 ## Project Summary
-With March Madness around the corner, a lot of excitment come from being able to predict some possible matchups, upsets and even who is going to win it all. While most fans rely heavily on their emotions and fanatism to predict certain outcomes, this project uses machine learning to assist in predicting the 2023 bracket. To be continued ..
+With March Madness around the corner, a lot of excitment come from being able to predict some possible matchups, upsets and even who is going to win it all. While most fans rely heavily on their emotions and fanatism to predict certain outcomes, this project uses machine learning to assist in predicting the 2023 bracket. To find out the  model's prediction, follow this instructions below.
 
 ## Getting started
-To navigate the this project, (not sure if you guys wanna use html or powerpoint to present. But I'lle leave this here for now.)
+To use this model, download the repo how you prefer, run the jupyter notebook file if you want to use the local data. The html file is used to diplay the results.
 
 ## Resources, Librairies and Tools
 
@@ -19,12 +19,11 @@ To navigate the this project, (not sure if you guys wanna use html or powerpoint
 [scikit-learn](https://scikit-learn.org/stable/install.html), and others.
 
 **Tools & languages:** 
-Jupyter Notebook, HTML, Javascript, SQL.
+Jupyter Notebook, HTML, Javascript.
 
-## Navigation
-From the Homepage, 
+# Disclaimer
+Please do not bet all your money.
 
-##
 
 
 
